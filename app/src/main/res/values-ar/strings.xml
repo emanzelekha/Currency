@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Currency</string>
+    <string name="title_home">الرئيسية</string>
+    <string name="title_dashboard">الداشبورد</string>
+    <string name="title_notifications">الاشعارات</string>
+    <!-- Strings related to login -->
+    <string name="prompt_email">البريد الالكتروني</string>
+    <string name="prompt_password">كلمة المرور</string>
+    <string name="action_sign_in">تسجيل</string>
+    <string name="action_sign_in_short">تسجيل الدخول</string>
+    <string name="welcome">"مرحبا!"</string>
+    <string name="invalid_username">يرجى ادخال اسم صحيح</string>
+    <string name="invalid_password">يجب ان تكون كلمة المرور اكبر من 5 احرف</string>
+    <string name="login_failed">"فشل تسجيل الدخول"</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">مرحبا من الواجهه الفارغة</string>
+    <string name="language_title">English</string>
+    <string name="phone_language">لغة النظام (%s)</string>
+    <string name="settings">الإعدادات</string>
+</resources>

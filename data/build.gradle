@@ -1,0 +1,12 @@
+plugins {
+    id 'kotlin'
+}
+
+dependencies {
+    api project(path: ':domain')
+
+    //gson
+    api 'com.google.code.gson:gson:2.8.7'
+    // retrofit2
+    api 'com.squareup.retrofit2:retrofit:2.9.0'
+}

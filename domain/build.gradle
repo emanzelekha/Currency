@@ -1,0 +1,10 @@
+plugins {
+    id 'kotlin'
+}
+
+dependencies {
+    // Coroutines
+    api "org.jetbrains.kotlinx:kotlinx-coroutines-core:1.5.1"
+    // Dagger Hilt
+    api 'com.google.dagger:hilt-core:2.38.1'
+}

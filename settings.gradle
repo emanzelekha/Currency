@@ -1,0 +1,6 @@
+rootProject.name = "CemsSturacture"
+include ':domain', ':domain:commonDomain'
+include ':data', ':data:commonData', ':data:cache', ':data:remote'
+include ':coreui', ':localization', ':prettystates', ':listlibrary'
+include ':app'
+include ':validation'
